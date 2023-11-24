@@ -24,3 +24,5 @@ usage: plot_memory_usage [-h] [--units {MB,GB,PERCENT}]
 ╰───────────────────────────────────────────────────╯
 
 ```
+
+![2023-11-23_18-35-31_plot_memory_usage](https://github.com/tylerlum/plot_memory_usage/assets/26510814/452cb712-b1ea-49a0-b4d0-c9b67133bf1e)
